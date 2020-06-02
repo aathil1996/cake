@@ -40,7 +40,7 @@
 </a>
 		</div>
 		<div class="col-sm-6">
-<img src="images/cos1.jpg" class="girl img-responsive" alt="">
+<img src="images/cakes/anuvasary/anu2.jpg" class="girl img-responsive" alt="">
 		</div></div>
 
 		<div class="item">
@@ -52,7 +52,7 @@
 </a>
 		</div>
 		<div class="col-sm-6">
-<img src="images/girl2.jpg" class="girl img-responsive" alt="">
+<img src="images/cakes/birthday/bir1.jpg" class="girl img-responsive" alt="">
 		</div></div>
 							
 		<div class="item active">
